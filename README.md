@@ -18,7 +18,7 @@ Traditional geography lessons in Romanian primary schools often rely on blackboa
 ![Main menu](screenshots/main_menu.png)
 *Main menu — pupils select their difficulty level from here.*
 
-![Customization](screenshots/customization.png)
+![Customization](screenshots/customizare.png)
 *Customization — pupils unlock certain clothing items based on the points earned during the games.*
 
 ![Drag-and-drop county placement — Medium level 2](screenshots/counties-drag-drop.png)
