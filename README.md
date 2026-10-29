@@ -4,11 +4,10 @@ An interactive 2D educational game for fourth-grade pupils to learn Romanian geo
 
 ## My Role
 
-Contributed as **Backend Developer** and **Scrum Master**:
+Contributed as **Frontend Developer**:
 
-- Designed and built the **JSON-based data layer** storing game questions and level configurations, which drove cross-difficulty progression and dynamic scene management across all 12 games
-- Coordinated the team of 10 as Scrum Master - ran sprint ceremonies, owned the product backlog, and maintained direct feedback loops with the client teacher and her pupils
-- Translated user feedback into product decisions, including the treasure-chest reward for completing each difficulty tier and the expansion of game variety within levels
+- Designed and built the **main interface** with all the levels and difficulty buttons, the Sound Settings window, and the Customization System using earned saved points.
+- I also created the FINAL BONUS LEVEL at MEDIUM DIFFICULTY featuring a map of Romania with Pins. The children need to click the pin corresponding to big cities in Romania in the correct order, according to the info gradually appearing on the side of the screen. At the end, they discover Dino, the main character!
 
 ## About
 
@@ -70,4 +69,4 @@ For mobile testing, use Godot's **Remote Debug** feature or export to Android.
 
 ## Team
 
-Developed by a team of 10 at Babeș-Bolyai University. Project managed using Scrum methodology with regular sprint reviews and continuous stakeholder feedback from the client teacher and her fourth-grade class.
+Developed by a team of 10 at Babeș-Bolyai University. Project managed using Scrum methodology with regular sprint reviews and continuous stakeholder feedback from the client teacher and her fourth-grade class. (We received the maximum grade :D)
